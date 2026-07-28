@@ -209,44 +209,33 @@ Others:
 
 # 📈 GitHub Analytics
 
+
+
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akashali352&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akashali352&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akashali352&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=Akashali352&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashali352&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashali352&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akashali352&theme=tokyo-night&hide_border=true"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akashali352&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
 ---
 
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akashali352&theme=onedark&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Akashali352&theme=tokyonight&row=1&column=7"/> </p>
 
 ---
 
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
-> **Enable GitHub Actions first for this animation to work.**
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akashali352&show_icons=true&theme=tokyonight"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Akashali352/Akashali352/output/github-contribution-grid-snake.svg"/> </p>
 
 ---
 
