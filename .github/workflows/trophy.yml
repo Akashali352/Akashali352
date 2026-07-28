@@ -1,0 +1,23 @@
+name: Generate Trophies
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Trophies
+        uses: soulteary/profile-trophy-action@v1
+        with:
+          user_name: Akashali352
+          theme: onedark
+
+      - name: Commit & Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update GitHub Trophies"
