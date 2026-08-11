@@ -10,9 +10,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akashalics)
 
-<a href="https://akashali352.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashali352.github.io/portfolio/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Akashali352)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:akashgujjar123678@gmail.com)
 
